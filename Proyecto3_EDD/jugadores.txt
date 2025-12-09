@@ -1,0 +1,23 @@
+1;Lamine Yamal;18;España;EXTREMO;/fotos/lamine-yamal-nasraoui-ebana.png;10;127;68;68
+2;Ter Stegen;33;Alemania;PORTERO;/fotos/marc-andre-ter-stegen.png;1;0;0;0
+3;Joan Garcia;24;España;PORTERO;/fotos/joan-garcia-pons.png;13;0;0;0
+4;Wojcieh Szczeny;35;Polonia;PORTERO;/fotos/wojciech-szczesny.png;25;0;0;12
+6;Pau Cubarsí;18;España;CENTRAL;/fotos/pau-cubarsi-paredes.png;5;0;21;57
+7;Alejandro Balde;22;España;LATERAL IZQUIERDO;/fotos/alejandro-balde-martinez.png;3;0;33;99
+8;Andreas Christensen;29;Dinamarca;CENTRAL;/fotos/andreas-christensen.png;15;0;0;0
+9;Gerard Martin;23;España;LATERAL IZQUIERDO;/fotos/gerard-martin-langreo.png;18;0;0;0
+10;Jules Kounde;27;Francia;LATERAL DERECHO;/fotos/jules-kounde.png;23;0;30;80
+11;Eric Garcia;24;España;CENTRAL;/fotos/eric-garcia.png;24;0;21;77
+12;Jofre Torrents;18;España;LATERAL DERECHO;/fotos/jofre-torrents-salvat.png;26;0;0;0
+13;Pablo Gavi;21;España;MEDIOCENTRO;/fotos/pablo-martin-paez-gaviria.png;6;0;71;101
+14;Fermin Lopez;22;España;INTERIOR;/fotos/fermin-lopez-marin.png;16;73;40;120
+15;Marc Casado;22;España;MEDIOCENTRO;/fotos/marc-casado-torras-1.png;17;0;0;0
+16;Dani Olmo;27;España;INTERIOR;/fotos/dani-olmo.png;20;55;50;90
+17;Frenkie De Jong;28;Holanda;MEDIOCENTRO;/fotos/frenkie-de-jong.png;21;20;0;0
+18;Marc Bernal;18;España;MEDIOCENTRO;/fotos/marc-bernal-casas.png;22;0;0;0
+19;Pedri Gonzalez;23;España;MEDIOCENTRO;/fotos/pedri.png;8;10;99;143
+20;Robert Lewandowski;37;Polonia;DELANTERO CENTRO;/fotos/robert-lewandowski-1.png;9;191;110;176
+21;Raphinha;28;Brasil;EXTREMO;\fotos\raphinha.png;11;198;88;165
+22;Marcus Rashford;28;Inglaterra;EXTREMO;/fotos/marcus-rashford.png;14;66;99;132
+23;Roony Bardghji;20;Suecia;EXTREMO;/fotos/roony-bardghji.png;28;0;30;40
+24;Ferran Torres;25;España;DELANTERO CENTRO;/fotos/ferran-torres-garcia.png;7;64;44;121
